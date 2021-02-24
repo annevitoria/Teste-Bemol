@@ -23,4 +23,5 @@ Teste QA ENGINEER
 **Etapa IV - Automação de Teste de API**
 
 -> Foram utilizadas as bibliotecas **requests e json** para realizar o teste
+
 -> Foi utilizada o Key, Controller para disparo de ação de teclado que não estavam sendo acessiveis via Selenium WebDrive
