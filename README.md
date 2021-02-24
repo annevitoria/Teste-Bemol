@@ -19,4 +19,8 @@ Teste QA ENGINEER
 
 -> Foi utilizado o Python 3.9.1 para realizar o teste
 
+
 **Etapa IV - Automação de Teste de API**
+
+-> Foram utilizadas as bibliotecas **requests e json** para realizar o teste
+
