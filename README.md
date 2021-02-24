@@ -1,5 +1,7 @@
 # Teste-Bemol
 Teste QA ENGINEER
+ANNE VITORIA 
+24/02/2021
 
 **Etapa I - Fundamentos de Teste**
 
